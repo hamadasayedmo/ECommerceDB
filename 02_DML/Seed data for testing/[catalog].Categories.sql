@@ -1,0 +1,21 @@
+insert into [catalog].Categories (Name, Description) values ('Food - Baking', 'Raw brown sugar, perfect for baking or sweetening drinks.');
+insert into [catalog].Categories (Name, Description) values ('Food - Desserts', 'Decadent tart made with rich dark chocolate.');
+insert into [catalog].Categories (Name, Description) values ('Food - Meats', 'Frozen sausage patties made with herbs and spices, perfect for breakfast sandwiches.');
+insert into [catalog].Categories (Name, Description) values ('Food - Bakery', 'Crispy and delicious biscotti flavored with cranberry and almond.');
+insert into [catalog].Categories (Name, Description) values ('Home', 'Fun decorations for Halloween to set a spooky atmosphere.');
+insert into [catalog].Categories (Name, Description) values ('Outdoor', 'Compact charcoal grill perfect for tailgating.');
+insert into [catalog].Categories (Name, Description) values ('Food - Frozen Desserts', 'Creamy ice cream with a warm cinnamon flavor, perfect for dessert.');
+insert into [catalog].Categories (Name, Description) values ('Food - Produce', 'Fresh and tart organic green apples, great for snacking or baking.');
+insert into [catalog].Categories (Name, Description) values ('Food - Cheese', 'Spicy blue cheese with a hint of buffalo flavor.');
+insert into [catalog].Categories (Name, Description) values ('Food - Snacks', 'Crispy chips made from assorted garden vegetables, lightly salted.');
+insert into [catalog].Categories (Name, Description) values ('Food - Canned Goods', 'Delicious canned pineapple rings for desserts or salads.');
+insert into [catalog].Categories (Name, Description) values ('Kitchen', 'Healthier way to make popcorn in the microwave without oil.');
+insert into [catalog].Categories (Name, Description) values ('Home', 'Space-efficient shoe rack to keep entryways organized.');
+insert into [catalog].Categories (Name, Description) values ('Food - Sides', 'A delicious savory quinoa pudding, great as a side dish.');
+insert into [catalog].Categories (Name, Description) values ('Food - Breakfast', 'Crunchy granola with maple syrup and pecans, great for breakfast or snacking.');
+insert into [catalog].Categories (Name, Description) values ('Outdoor', 'Lightweight and portable swing hammock for relaxing outdoors.');
+insert into [catalog].Categories (Name, Description) values ('Food - Snacks', 'Crispy almonds coated with cinnamon and sugar for a sweet and crunchy snack.');
+insert into [catalog].Categories (Name, Description) values ('Furniture', 'Ergonomic office chair with lumbar support and adjustable height.');
+insert into [catalog].Categories (Name, Description) values ('Health', 'Comprehensive first aid kit for emergency situations.');
+insert into [catalog].Categories (Name, Description) values ('Food - Bakery', 'Freshly baked artisan bread with a crisp crust and soft center.');
+
